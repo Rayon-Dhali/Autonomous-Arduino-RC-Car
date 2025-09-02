@@ -1,2 +1,1 @@
-# autonomous-arduino-rc-car
-Built a self-driving RC car using Arduino, ultrasonic and IR sensors to detect and avoid obstacles in real time. Integrated a servo-mounted sensor system and L298N motor driver for dynamic pathfinding and control. Demonstrates core embedded systems, robotics, and circuit integration skills.
+<img width="601" height="855" alt="image" src="https://github.com/user-attachments/assets/53352c79-68ed-496a-a925-2e1ce32148f7" />
